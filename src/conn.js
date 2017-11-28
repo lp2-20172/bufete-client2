@@ -1,6 +1,6 @@
 const config = {
     url: "https://bufete-serve.herokuapp.com/o/authorize/",
-    client: "njJ0eHdV0R51clcGh1LRjwu20jNmMjE0bDGcU7O8",
+    client: "IS89kt1VAa5zeLmwisxbst1HszegjnsT5R64GDwA",
     redirect: "http://localhost:3000",
     scope: "read",
     width: 400, // Width (in pixels) of login popup window. Optional, default: 400
