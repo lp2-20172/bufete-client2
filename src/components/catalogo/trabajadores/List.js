@@ -123,7 +123,7 @@ class List extends Component {
                                     </TableRow>
                                 )}
                             </TableBody>
-                             <Pagination onChange={this.onChange} current={this.state.current} total={25} />;
+                            <Pagination onChange={this.onChange} current={this.state.current} total={25} />;
                             
                         </Table>
                     </Paper>
